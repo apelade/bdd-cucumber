@@ -33,6 +33,7 @@ group :assets do
   gem 'uglifier'
 end
 
+gem 'rspec', '~> 2.14.1'
 gem 'jquery-rails'
 gem 'haml'
 
